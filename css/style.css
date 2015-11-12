@@ -277,6 +277,16 @@ img.u-max-full-width {
   margin-top: 2em;
 }
 
+.footer a {
+  font-family: 'Lato', 'Helvetica', sans-serif;
+  font-size: .8rem;
+  color: #939598;
+}
+
+.footer a:hover {
+  color: black;
+}
+
 .footer ul {
   padding-left: 0;
   margin-left: 0;
