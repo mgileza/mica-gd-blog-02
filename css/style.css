@@ -67,6 +67,10 @@ button {
   font-size: 1rem;
 }
 
+button:hover {
+  border: solid 4px black;
+}
+
 .featured-post-text button {
   margin-left: 0;
 }
@@ -305,7 +309,11 @@ img.u-max-full-width {
 
 a:hover {
   font-weight: bolder;
-  font-weight: 600;
+  font-weight: 700;
+}
+
+p a:hover {
+  text-decoration: underline;
 }
 
 .logo a:hover {
